@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  min-width: 500px;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+  background-color: black;
+  text-align: left;
+  margin: auto;
+  border: gray solid thick;
+  width: 400px;
+}
+
+.input {
+  background-color: black;
+  color: white;
+}
+
+#timeline {
+  background-color: gray;
+  margin: auto;
+  text-align: center;
+  vertical-align: center;
+  border: gray solid thick;
+  width: 600px;
+}
